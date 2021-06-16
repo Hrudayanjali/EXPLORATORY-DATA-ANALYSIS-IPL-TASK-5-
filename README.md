@@ -1,4 +1,4 @@
-# EXPLORATORY-DATA-ANALYSIS-IPL-TASK-5-
+# EXPLORATORY-DATA-ANALYSIS-IPL(TASK-5)
 
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 - As a sports analysts, find out the most successful teams, players and factors
